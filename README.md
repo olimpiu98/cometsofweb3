@@ -1,4 +1,5 @@
 # Day 1 Generate and Load keypair
+<img src="/screenshots/image.png" width="300">
 ![alt text](/screenshots/image.png)
 ![alt text](/screenshots/image-1.png)
 
@@ -7,3 +8,4 @@
 
 # Day 3 Transfer Balance
 ![alt text](/screenshots/image-3.png)
+
