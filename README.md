@@ -7,4 +7,3 @@
 
 # Day 3 - Transfer Balance
 <img src="/screenshots/image-3.png" width="70%">
-
