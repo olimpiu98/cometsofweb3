@@ -1,5 +1,5 @@
 # Day 1 Generate and Load keypair
-<img src="/screenshots/image.png" width="300">
+<img src="/screenshots/image.png" width="50%">
 ![alt text](/screenshots/image.png)
 ![alt text](/screenshots/image-1.png)
 
