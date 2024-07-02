@@ -38,4 +38,4 @@ console.log("🏦 Balance sender final:", balanceSenderEnd);
 const balanceReciverEnd = await connection.getBalance(reciver) / LAMPORTS_PER_SOL
 console.log("📥 Balance reciver final:", balanceReciverEnd);
 
-console.log("🔻 Spend:", initialSenderBalance / LAMPORTS_PER_SOL - balanceSenderEnd);
+console.log("🔻 Spent:", initialSenderBalance / LAMPORTS_PER_SOL - balanceSenderEnd);
