@@ -8,6 +8,8 @@ import {
   Transaction,
   SystemProgram,
   sendAndConfirmTransaction,
+  VersionedTransaction,
+  TransactionMessage,
 } from "@solana/web3.js";
 import { createMemoInstruction } from "@solana/spl-memo";
 
@@ -68,3 +70,15 @@ console.log(
   "🔻 Spent:",
   initialSenderBalance / LAMPORTS_PER_SOL - balanceSenderEnd
 );
+
+// const messageV0 = new TransactionMessage({
+//   payerKey: sender.publicKey,
+//   recentBlockhash: (await connection.getLatestBlockhash()).blockhash,
+//   instructions: [transferInstruction, memoInstruction],
+// }).compileToLegacyMessage();
+
+// const tx = new VersionedTransaction(messageV0)
+// tx.sign([sender]);
+// const result = await connection.simulateTransaction(tx);
+
+// console.log(result)
