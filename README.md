@@ -13,11 +13,11 @@
 
 # Day 4 - Create, mint & transfer token
 
-- Create-token-mint
+- Create-token-mint <br>
   <img src="/screenshots/image-4.png" width="70%">
-- Create-token-account
+- Create-token-account<br>
   <img src="/screenshots/image-5.png" width="70%">
-- Mint-tokens
+- Mint-tokens<br>
   <img src="/screenshots/image-6.png" width="70%">
-- Transfer-token
+- Transfer-token<br>
   <img src="/screenshots/image-7.png" width="70%">
