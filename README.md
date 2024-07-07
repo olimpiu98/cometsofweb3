@@ -1,7 +1,9 @@
 # Day 1 - Generate and Load keypair
 
-<img src="/screenshots/image-0.png" width="70%">
-<img src="/screenshots/image-1.png" width="70%">
+- Generate-keypair<br>
+  <img src="/screenshots/image-0.png" width="70%">
+- Load-keypair<br>
+  <img src="/screenshots/image-1.png" width="70%">
 
 # Day 2 - Check Balance
 
