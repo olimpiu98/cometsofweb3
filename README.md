@@ -1,25 +1,39 @@
-# Day 1 - Generate and Load keypair
+# Day 1 - Generate and Load Keypair
 
-- Generate-keypair<br>
-  <img src="/screenshots/image-0.png" width="70%">
-- Load-keypair<br>
-  <img src="/screenshots/image-1.png" width="70%">
+- **Generate Keypair**
+
+  ![Generate Keypair](/screenshots/image-0.png)
+
+- **Load Keypair**
+
+  ![Load Keypair](/screenshots/image-1.png)
 
 # Day 2 - Check Balance
 
-<img src="/screenshots/image-2.png" width="70%">
+- **Check Balance**
+
+  ![Check Balance](/screenshots/image-2.png)
 
 # Day 3 - Transfer Balance
 
-<img src="/screenshots/image-3.png" width="70%">
+- **Transfer Balance**
 
-# Day 4 - Create, mint & transfer token
+  ![Transfer Balance](/screenshots/image-3.png)
 
-- Create-token-mint <br>
-  <img src="/screenshots/image-4.png" width="70%">
-- Create-token-account<br>
-  <img src="/screenshots/image-5.png" width="70%">
-- Mint-tokens<br>
-  <img src="/screenshots/image-6.png" width="70%">
-- Transfer-token<br>
-  <img src="/screenshots/image-7.png" width="70%">
+# Day 4 - Create, Mint & Transfer Token
+
+- **Create Token Mint**
+
+  ![Create Token Mint](/screenshots/image-4.png)
+
+- **Create Token Account**
+
+  ![Create Token Account](/screenshots/image-5.png)
+
+- **Mint Tokens**
+
+  ![Mint Tokens](/screenshots/image-6.png)
+
+- **Transfer Token**
+
+  ![Transfer Token](/screenshots/image-7.png)
