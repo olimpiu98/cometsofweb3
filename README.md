@@ -25,3 +25,8 @@
   ![Mint Tokens](/screenshots/image-6.png)
 - **Transfer Token**  
   ![Transfer Token](/screenshots/image-7.png)
+
+# Day 5 - Token metadata create / update
+
+-**Create new nft**
+![Create new nft](/screenshots/iamge-8.png)
