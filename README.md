@@ -36,7 +36,7 @@
 - **Rustlings learn**
   ![Rustlings](/screenshots/image-9.png)
 
-# Day 7 - Anchor initi / test / build
+# Day 7 - Anchor init / test / build
 
 - **Anchor test**
   ![Rustlings](/screenshots/image-10.png)
