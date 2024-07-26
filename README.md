@@ -28,5 +28,10 @@
 
 # Day 5 - Token metadata create / update
 
--**Create new nft**
-![Create new nft](/screenshots/iamge-8.png)
+- **Create metadata**
+  ![Create new metadata](/screenshots/image-8.png)
+
+# Day 6 - Rustlings
+
+- **Create metadata**
+  ![Create new metadata](/screenshots/image-9.png)
