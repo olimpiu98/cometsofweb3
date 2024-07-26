@@ -33,5 +33,12 @@
 
 # Day 6 - Rustlings
 
-- **Create metadata**
-  ![Create new metadata](/screenshots/image-9.png)
+- **Rustlings learn**
+  ![Rustlings](/screenshots/image-9.png)
+
+# Day 7 - Anchor initi / test / build
+
+- **Anchor test**
+  ![Rustlings](/screenshots/image-10.png)
+- **Anchor build**
+  ![Rustlings](/screenshots/image-11.png)
