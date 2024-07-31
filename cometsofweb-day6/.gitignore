@@ -7,11 +7,11 @@ Cargo.toml
 
 exercises/10_modules/
 exercises/11_hashmaps/
-exercises/12_option/
+exercises/12_options/
 exercises/13_error_handling/
 exercises/14_generics/
 exercises/15_traits/
-exercises/16_lifetime/
+exercises/16_lifetimes/
 exercises/17_tests/
 exercises/18_iterators/
 exercises/19_smart_pointers/
