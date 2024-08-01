@@ -50,9 +50,20 @@
 - **Anchor test**
   ![Anchor](/screenshots/image-13.png)
 
-# Day 9 - Anchor and Tokens
+# Day 9-10 - Anchor and Tokens
 
 - **Anchor build**
   ![Anchor](/screenshots/image-14.png)
 - **Anchor test**
   ![Anchor](/screenshots/image-15.png)
+
+# Day 11 - Frontend
+
+- **Detect wallet**
+  ![Detect wallet](/screenshots/image-16.png)
+- **Connect wallet**
+  ![Connect wallet](/screenshots/image-17.png)
+- **Ping with sig**
+  ![Ping](/screenshots/image-18.png)
+- **Send solana**
+  ![Send to wallet](/screenshots/image-19.png)
