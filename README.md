@@ -45,7 +45,14 @@
 
 # Day 8 - Handson Anchor
 
-- **Anchor test**
-  ![Anchor](/screenshots/image-12.png)
 - **Anchor build**
+  ![Anchor](/screenshots/image-12.png)
+- **Anchor test**
   ![Anchor](/screenshots/image-13.png)
+
+# Day 9 - Anchor and Tokens
+
+- **Anchor build**
+  ![Anchor](/screenshots/image-14.png)
+- **Anchor test**
+  ![Anchor](/screenshots/image-15.png)
