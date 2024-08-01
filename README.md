@@ -39,6 +39,13 @@
 # Day 7 - Anchor init / test / build
 
 - **Anchor test**
-  ![Rustlings](/screenshots/image-10.png)
+  ![Anchor](/screenshots/image-10.png)
 - **Anchor build**
-  ![Rustlings](/screenshots/image-11.png)
+  ![Anchor](/screenshots/image-11.png)
+
+# Day 8 - Handson Anchor
+
+- **Anchor test**
+  ![Anchor](/screenshots/image-12.png)
+- **Anchor build**
+  ![Anchor](/screenshots/image-13.png)
