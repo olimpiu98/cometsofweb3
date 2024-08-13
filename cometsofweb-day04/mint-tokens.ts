@@ -19,10 +19,10 @@ const user = getKeypairFromEnvironment("SECRET_KEY");
 const UNITS = Math.pow(10, 9);
 
 const tokenMintAccount = new PublicKey(
-	"ESxnnDXNXdEtDd2g2CmyzNekPbH444a58nEFisRFD6Qj"
+	"FxFPct81rRxuL4kbZ9qMa3Uuh1UDUmh8MKNX4qnAcqTT"
 );
 const recipient = new PublicKey(
-	"97LQneFAwi3mUcaKyFvpwgbbRcaQVGruXcJNEnXEQavY"
+	"UFiCn9rXZdjUwcZpyfnrnytEzCo1JYPzniRQ8aD2wga"
 );
 
 const recipientAssociatedTokenAccount =
